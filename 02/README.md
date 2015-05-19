@@ -7,7 +7,7 @@
     * Folder view
     * Syntax highlighting (controlled by file extension and/or language dropdown in bottom right)
 * CSS resets
-    * `margin: 0; padding; 0` - removes idiosyncratic browser default styling
+    * `margin: 0; padding: 0;` - removes idiosyncratic browser default styling
     * `box-sizing: border-box`
         * constrains padding and border dimensions to any specified height and width
         * (basically, makes height and width work like you think they should)
